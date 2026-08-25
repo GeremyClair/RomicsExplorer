@@ -43,8 +43,7 @@ To cite the package, please use the following DOI:
 https://www.biorxiv.org/content/10.64898/2026.07.09.737600v1
 
 ## Zenodo DOI
-.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.22102386.svg
-  :target: https://doi.org/10.5281/zenodo.22102386
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22102386.svg)](https://doi.org/10.5281/zenodo.22102386)
   
 ## Authors
 
