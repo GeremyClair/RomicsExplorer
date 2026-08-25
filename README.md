@@ -13,11 +13,16 @@ Note: it is possible that packages not listed below are required; please read th
 ```R
 install.packages(“devtools”)
 install.packages("shinyapp")
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+
+BiocManager::install("ggtree")
+BiocManager::install("ComplexHeatmap")
 ```
 
 ### Install RomicsProcessorfrom GitHub
 ```R
-devtools::install_github(“PNNL-Comp-Mass-Spec/RomicsProcessor”)
+devtools::install_github("PNNL-Comp-Mass-Spec/RomicsProcessor")
 ```
 
 ## System Requirements
