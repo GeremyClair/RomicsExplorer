@@ -40,7 +40,7 @@ RomicsProcessor includes a comprehensive case study demonstrating the complete w
 ## Cite the code
 
 To cite the package, please use the following DOI:
-[![citation(https://www.biorxiv.org/content/10.64898/2026.07.09.737600v1)
+https://www.biorxiv.org/content/10.64898/2026.07.09.737600v1
 
 ## Authors
 
