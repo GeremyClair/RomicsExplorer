@@ -26,7 +26,7 @@ devtools::install_github("PNNL-Comp-Mass-Spec/RomicsProcessor")
 ```
 
 ### Start the shiny app
-After decompressing all files in a single folder go into RStudio and open the shiny app code file. Then press on the green play button to start the app.
+After decompressing all files in a single folder go into RStudio and open the shiny app code RomicsExplorer.R file. Then press on the green play button to start the app.
 
 ## System Requirements
 
